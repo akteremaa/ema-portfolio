@@ -1,0 +1,11 @@
+# Ema Akter Portfolio
+# robots.txt - search engine crawler guidance
+
+User-agent: *
+Allow: /
+
+# Reference sitemap for structured indexing
+# After deploying to GitHub Pages, replace SITE_ROOT with the actual deployment URL
+Sitemap: SITE_ROOT/sitemap.xml
+
+# Crawl rate is fine at default for a single-page portfolio
